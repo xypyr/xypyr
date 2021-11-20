@@ -1,0 +1,22 @@
+bind_US_standard "F12" "exec autoexec"
+mat_fullbright "1"
+mat_queue_mode "2"          						
+mat_picmip 4															
+mat_forceaniso 0							
+ssao_enabled 0								
+sssss_enable 0								
+particle_cpu_level 0								
+cl_ragdoll_maxcount 0								
+cl_particle_fallback_multiplier 0.0000001					
+cl_particle_fallback_base 0.0000001						
+noise_filter_scale 0
+mat_bloom_scalefactor_scalar 0							
+r_createmodeldecals 0	
+mat_disable_bloom 1	
+nx_static_lobby_mode 2
+cl_gib_allow 0
+r_cleardecals				
+r_cheapwaterstart 0.000001
+mat_specular 0
+mat_bumpmap 0
+r_dynamic 0
